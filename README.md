@@ -1,6 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://drive.google.com/uc?export=view&id=1KS-aZxfxUsEmXhWCr12BZlogEr_xSRoV
-">
+  <img src="https://drive.google.com/uc?export=view&id=13vC__9fN1Tz7jimRd5cWurPQU6poDxUg">
 </div>
 
 <h1 align="center">Hi 👋, I'm S. M. Nafis Ahmed</h1>
