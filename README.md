@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=13vC__9fN1Tz7jimRd5cWurPQU6poDxUg" alt="GIF Banner" width="800" />
+  <img src="https://drive.google.com/uc?export=view&id=1KS-aZxfxUsEmXhWCr12BZlogEr_xSRoV" alt="GIF Banner" width="800" />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm S. M. Nafis Ahmed</h1>
 <h3 align="center">A passionate AI, ML researcher and mobile app developer from Bangladesh</h3>
