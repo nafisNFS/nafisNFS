@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*BIpRgx5FsEMhr1k2EqBKFg.gif" alt="MasterHead">
+  <img src="https://drive.google.com/file/d/1KS-aZxfxUsEmXhWCr12BZlogEr_xSRoV/view?usp=sharing">
 </div>
 
 <h1 align="center">Hi 👋, I'm S. M. Nafis Ahmed</h1>
