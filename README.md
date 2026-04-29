@@ -65,8 +65,7 @@ Flutter
 
 ## 🌐 Connect With Me  
 
-- 🔗 LinkedIn: https://linkedin.com/in/nafis81  
-- 🏆 TopCoder: https://www.topcoder.com/members/1216  
+- 🔗 LinkedIn: https://linkedin.com/in/nafis81    
 - 📧 Email: smnafisofficial@gmail.com  
 
 ---
