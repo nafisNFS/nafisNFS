@@ -1,15 +1,11 @@
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=124khQvHBKYidqWapo68BRW0_ckiELceQ" alt="GIF Banner" width="800" />
-</p>
-
 <h1 align="center">Hi 👋, I'm S. M. Nafis Ahmed</h1>
-<h3 align="center">A passionate AI, ML researcher and mobile app developer from Bangladesh</h3>
+<h3 align="center">A passionate AI, ML Engineer and software developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafisnfs&label=Profile%20views&color=0e75b6&style=flat" alt="nafisnfs" /> </p>
 
-- 🌱 I’m currently learning **LLM, NLP, Computer Vision, Flutter**
+- 🌱 I’m currently learning **Multi-Agent Orchestration, MCP, A2A, Multimodal AI, RAG, LLM, NLP, Computer Vision**
 
-- 💬 Ask me about **ML, AI, Computer Vision, Android, Flutter, Dart**
+- 💬 Ask me about **LLM, ML, AI, Computer Vision**
 
 - 📫 How to reach me **smnafisofficial@gmail.com**
 
